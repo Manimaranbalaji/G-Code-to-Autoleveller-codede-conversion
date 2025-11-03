@@ -26,14 +26,14 @@ Substrates or copper-clad boards may have variations in flatness, which can affe
 Ensuring consistent depth of milling or engraving across the entire PCB surface is crucial for precise PCB fabrication.
 ## Functionality:
 ### Automatic Depth Adjustment: 
-PCB AutoLEVLER automatically adjusts the Z-axis depth of the milling or engraving tool based on the surface variations of the PCB substrate. It dynamically compensates for any unevenness in the board to maintain a consistent depth of cut.
+PCB Autoleveller automatically adjusts the Z-axis depth of the milling or engraving tool based on the surface variations of the PCB substrate. It dynamically compensates for any unevenness in the board to maintain a consistent depth of cut.
 ### Surface Mapping: 
 The software typically includes a surface mapping feature that scans the surface of the PCB and generates a digital map indicating areas of variation in flatness. This map is then used to adjust the tool's depth as it moves across the board.
 ### Integration with CNC Machines:
 PCB AutoLEVLER is integrated with CNC machines through compatible control software. It communicates with the CNC controller to adjust tool depth in real-time during the milling or engraving process.
 ## Benefits:
 ### Improved Accuracy: 
-By compensating for surface variations, PCB AutoLEVLER helps maintain precise milling or engraving depths, resulting in higher accuracy and quality of PCBs.
+By compensating for surface variations, PCB Autoleveller helps maintain precise milling or engraving depths, resulting in higher accuracy and quality of PCBs.
 ### Time Savings:
 The software automates the depth adjustment process, saving time compared to manual adjustments or rework caused by uneven milling depths.
 Reduced Waste: Consistent depth of milling or engraving minimizes the risk of errors and waste material, resulting in cost savings for PCB manufacturers.
